@@ -1,0 +1,251 @@
+[
+  {
+    "problem": "Loneliness",
+    "title": "Overcoming Loneliness",
+    "keywords": ["loneliness", "lonely", "lone", "alone", "isolated", "no friends", "empty"],
+    "eastern_philosophy": "Krishnamurti teaches that understanding oneself deeply reduces dependence on others for completeness.",
+    "western_philosophy": "Stoicism says fulfillment must come from within, not external company.",
+    "psychology": "Loneliness often comes from perceived disconnection, not actual isolation.",
+    "actionable_steps": [
+      "Spend time understanding your own thoughts",
+      "Join one interest-based group",
+      "Limit negative self-talk",
+      "Practice mindfulness daily"
+    ]
+  },
+  {
+    "problem": "Depression",
+    "title": "Understanding and Easing Depression",
+    "keywords": ["depression", "sad", "hopeless", "empty", "down", "low mood"],
+    "eastern_philosophy": "Buddha taught that suffering arises from attachment and can be eased through awareness.",
+    "western_philosophy": "Existentialism suggests meaning is created through action.",
+    "psychology": "Depression reduces motivation and distorts thinking patterns.",
+    "actionable_steps": [
+      "Wake up at the same time daily",
+      "Do one small task completely",
+      "Avoid isolation",
+      "Seek professional help if needed"
+    ]
+  },
+  {
+    "problem": "Anxiety",
+    "title": "Calming Anxiety",
+    "keywords": ["anxiety", "anxious", "panic", "nervous", "worried", "fear"],
+    "eastern_philosophy": "Taoism teaches flowing with life instead of resisting it.",
+    "western_philosophy": "Epictetus said we suffer more in imagination than reality.",
+    "psychology": "Anxiety is fear of future events.",
+    "actionable_steps": [
+      "Practice slow breathing",
+      "Focus on present moment",
+      "Reduce caffeine",
+      "Write worries down"
+    ]
+  },
+  {
+    "problem": "Overthinking",
+    "title": "Stopping Overthinking",
+    "keywords": ["overthinking", "thinking too much", "ruminating", "mind racing"],
+    "eastern_philosophy": "Buddha advised observing thoughts without attachment.",
+    "western_philosophy": "Stoics focused only on what is controllable.",
+    "psychology": "Overthinking is repetitive unproductive thinking.",
+    "actionable_steps": [
+      "Set a thinking time limit",
+      "Shift attention to body movement",
+      "Practice meditation",
+      "Sleep properly"
+    ]
+  },
+  {
+    "problem": "Fear of Failure",
+    "title": "Facing Fear of Failure",
+    "keywords": ["fear of failure", "afraid", "scared to try", "hesitation"],
+    "eastern_philosophy": "The Gita teaches action without attachment to results.",
+    "western_philosophy": "Camus believed courage lies in action despite fear.",
+    "psychology": "Fear of failure comes from self-worth attachment.",
+    "actionable_steps": [
+      "Redefine failure as learning",
+      "Take one small risk",
+      "Track progress not results"
+    ]
+  },
+  {
+    "problem": "Low Self Esteem",
+    "title": "Building Self Esteem",
+    "keywords": ["low self esteem", "insecure", "not good enough", "inferior"],
+    "eastern_philosophy": "Krishnamurti said comparison is the root of conflict.",
+    "western_philosophy": "Nietzsche encouraged becoming who you are.",
+    "psychology": "Low self-esteem is learned, not permanent.",
+    "actionable_steps": [
+      "Stop comparing yourself",
+      "Write strengths daily",
+      "Speak kindly to yourself"
+    ]
+  },
+  {
+    "problem": "Anger",
+    "title": "Managing Anger",
+    "keywords": ["anger", "angry", "rage", "irritated", "frustrated"],
+    "eastern_philosophy": "Buddha taught anger harms the holder first.",
+    "western_philosophy": "Stoics believed anger clouds judgment.",
+    "psychology": "Anger often hides pain or fear.",
+    "actionable_steps": [
+      "Pause before reacting",
+      "Breathe deeply",
+      "Express feelings calmly"
+    ]
+  },
+  {
+    "problem": "Stress",
+    "title": "Reducing Stress",
+    "keywords": ["stress", "pressure", "overwhelmed", "burnout"],
+    "eastern_philosophy": "Zen emphasizes doing one thing at a time.",
+    "western_philosophy": "Stoicism focuses on acceptance.",
+    "psychology": "Stress is mental overload.",
+    "actionable_steps": [
+      "Prioritize tasks",
+      "Take short breaks",
+      "Exercise regularly"
+    ]
+  },
+  {
+    "problem": "Lack of Motivation",
+    "title": "Regaining Motivation",
+    "keywords": ["no motivation", "lazy", "unmotivated", "stuck"],
+    "eastern_philosophy": "The Gita emphasizes disciplined action.",
+    "western_philosophy": "Sartre said action creates meaning.",
+    "psychology": "Motivation follows action, not before it.",
+    "actionable_steps": [
+      "Start very small",
+      "Create a routine",
+      "Reward progress"
+    ]
+  },
+  {
+    "problem": "Relationship Problems",
+    "title": "Handling Relationship Issues",
+    "keywords": ["relationship problem", "fight", "argument", "conflict"],
+    "eastern_philosophy": "Vivekananda taught compassion and understanding.",
+    "western_philosophy": "Aristotle valued communication and virtue.",
+    "psychology": "Most conflicts come from unmet expectations.",
+    "actionable_steps": [
+      "Listen without interrupting",
+      "Express feelings clearly",
+      "Avoid blame"
+    ]
+  },
+  {
+    "problem": "Financial Stress",
+    "title": "Coping with Money Stress",
+    "keywords": ["money problem", "financial stress", "debt", "poor"],
+    "eastern_philosophy": "Detach self-worth from possessions.",
+    "western_philosophy": "Focus on ethical effort.",
+    "psychology": "Money stress triggers fear response.",
+    "actionable_steps": [
+      "Track expenses",
+      "Plan monthly budget",
+      "Avoid impulsive spending"
+    ]
+  },
+  {
+    "problem": "Sleep Problems",
+    "title": "Improving Sleep",
+    "keywords": ["cant sleep", "insomnia", "sleep problem"],
+    "eastern_philosophy": "Balance body and mind.",
+    "western_philosophy": "Routine builds stability.",
+    "psychology": "Sleep issues often come from mental overstimulation.",
+    "actionable_steps": [
+      "Avoid screens at night",
+      "Sleep same time daily",
+      "Relax before bed"
+    ]
+  },
+  {
+    "problem": "Fear of Judgment",
+    "title": "Overcoming Fear of Judgment",
+    "keywords": ["fear of judgment", "people judging", "self conscious"],
+    "eastern_philosophy": "Let go of ego attachment.",
+    "western_philosophy": "Others' opinions do not define you.",
+    "psychology": "Fear of judgment comes from social conditioning.",
+    "actionable_steps": [
+      "Accept imperfection",
+      "Focus on actions not opinions"
+    ]
+  },
+  {
+    "problem": "Grief",
+    "title": "Dealing with Grief",
+    "keywords": ["grief", "loss", "death", "missing someone"],
+    "eastern_philosophy": "Impermanence is a truth of life.",
+    "western_philosophy": "Grief is the price of love.",
+    "psychology": "Grief has stages and no fixed timeline.",
+    "actionable_steps": [
+      "Allow emotions",
+      "Talk to someone",
+      "Honor memories"
+    ]
+  },
+  {
+    "problem": "Identity Crisis",
+    "title": "Finding Yourself",
+    "keywords": ["identity crisis", "who am i", "lost"],
+    "eastern_philosophy": "Self-inquiry leads to clarity.",
+    "western_philosophy": "Existence precedes essence.",
+    "psychology": "Identity evolves through experience.",
+    "actionable_steps": [
+      "Explore interests",
+      "Reflect regularly",
+      "Avoid labels"
+    ]
+  },
+  {
+    "problem": "Procrastination",
+    "title": "Stopping Procrastination",
+    "keywords": ["procrastination", "delay", "avoid work"],
+    "eastern_philosophy": "Act without attachment.",
+    "western_philosophy": "Action defines character.",
+    "psychology": "Procrastination is avoidance of discomfort.",
+    "actionable_steps": [
+      "Break tasks down",
+      "Start immediately",
+      "Remove distractions"
+    ]
+  },
+  {
+    "problem": "Jealousy",
+    "title": "Handling Jealousy",
+    "keywords": ["jealousy", "envy", "comparison"],
+    "eastern_philosophy": "Comparison is illusion.",
+    "western_philosophy": "Virtue is personal.",
+    "psychology": "Jealousy reflects insecurity.",
+    "actionable_steps": [
+      "Practice gratitude",
+      "Focus on self-growth"
+    ]
+  },
+  {
+    "problem": "Addiction",
+    "title": "Breaking Addictive Patterns",
+    "keywords": ["addiction", "habit", "dependency"],
+    "eastern_philosophy": "Awareness dissolves compulsion.",
+    "western_philosophy": "Freedom comes through discipline.",
+    "psychology": "Addiction is coping gone wrong.",
+    "actionable_steps": [
+      "Identify triggers",
+      "Seek support",
+      "Replace habit"
+    ]
+  },
+  {
+    "problem": "Emotional Numbness",
+    "title": "Reconnecting with Emotions",
+    "keywords": ["emotionless", "numb", "empty inside"],
+    "eastern_philosophy": "Stillness reveals truth.",
+    "western_philosophy": "Authenticity requires feeling.",
+    "psychology": "Numbness is a defense mechanism.",
+    "actionable_steps": [
+      "Engage senses",
+      "Journal feelings",
+      "Seek connection"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SOLUTION</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f4f4f4;
+            padding: 40px;
+        }
+        .box {
+            background: white;
+            padding: 30px;
+            max-width: 700px;
+            margin: auto;
+            border-radius: 8px;
+        }
+        textarea {
+            width: 100%;
+            height: 80px;
+        }
+        button {
+            padding: 10px 20px;
+            margin-top: 10px;
+        }
+        .result {
+            margin-top: 20px;
+            white-space: pre-line;
+        }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h2>🧠 SOLUTION</h2>
+    <p>Describe your problem or feeling:</p>
+
+    <form method="post">
+        <textarea name="user_input"></textarea><br>
+        <button type="submit">Get Solution</button>
+    </form>
+
+    {% if result %}
+    <div class="result">
+        <h3>{{ result.problem }}</h3>
+        <p><b>{{ result.title }}</b></p>
+
+        <p><b>Eastern Philosophy:</b><br>{{ result.eastern }}</p>
+        <p><b>Western Philosophy:</b><br>{{ result.western }}</p>
+        <p><b>Psychology:</b><br>{{ result.psychology }}</p>
+
+        <p><b>Action Steps:</b></p>
+        <ul>
+            {% for step in result.steps %}
+            <li>{{ step }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+</div>
+
+</body>
+</html>
